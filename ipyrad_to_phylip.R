@@ -1,4 +1,4 @@
-setwd("G:/Work data/Analyses/2016/2016_04_22_AlfalfaRelativesHybridisation/R/data")
+setwd("yourwd")
 
 library(stringr)
 library(dplyr)
