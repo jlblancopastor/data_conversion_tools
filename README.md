@@ -1,10 +1,8 @@
 # data_conversion_tools
 This repository contains simple codes for tranforming databases, mainly genomic data.
 
-ipyrad_to_phylip.R was used in the preprint:
+ipyrad_to_phylip.R was used in the publication:
 
-J.L. Blanco-Pastor, Y.J.K. Bertrand, I.M. Liberal, Y. Wei, E.C. Brummer and B.E. Pfeil. Robustness of RADseq for evolutionary network reconstruction from gene trees. 2018 bioRxiv (https://www.biorxiv.org/content/early/2018/09/11/414243). 
+Blanco‐Pastor, J. L., Bertrand, Y. J. K., Liberal, I. M., Wei, Y., Brummer, E. C., and Pfeil, B. E.. 2019. Evolutionary networks from RADseq loci point to hybrid origins of Medicago carstiensis and Medicago cretacea. American Journal of Botany 106( 9): 1219– 1228.
 
-Please cite the above preprint if used.
-
-This preprint is under review in Molecular Phylogenetics and Evolution. Users should cite **the final paper** instead if published. 
+Please cite the above paper if used.
